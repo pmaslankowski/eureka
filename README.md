@@ -1,5 +1,5 @@
 # eureka
-The repository contains links interesting articles about computer science and software engineering.
+The repository contains references to interesting articles about computer science and software engineering.
 
 ### DDD
 - [CQRS Journey](https://aka.ms/cqrs)
