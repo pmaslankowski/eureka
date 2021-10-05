@@ -51,6 +51,9 @@ The repository contains references to interesting articles about computer scienc
 - [Kotlin Coroutines Proposal](https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md#coroutine-context) ✅
 - [M. Moskała, Coroutines under the Hood](https://kt.academy/article/cc-under-the-hood) ✅
 
+### Java
+- [Java Concurrency Interview](https://www.youtube.com/playlist?list=PLhfHPmPYPPRmHL24Ry8rzni2XgwFeooVE) ✅
+ 
 ### Kafka
 - [G. Shapira, The Magical Rebalance Protocol of Apache Kafka](https://www.youtube.com/watch?v=MmLezWRI3Ys&ab_channel=StrangeLoopConference) ✅
 - [Kafka Design](https://kafka.apache.org/documentation/#design) ✅
