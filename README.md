@@ -26,6 +26,7 @@ The repository contains references to interesting articles about computer scienc
 
 ### Event Sourcing
 - [The dark side of event sourcing: Managing data conversion](https://www.researchgate.net/publication/315637858_The_dark_side_of_event_sourcing_Managing_data_conversion) ✅
+- [Domain Events vs Event Sourcing - Why domain events and event sourcing should not be mixed up](https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/) ✅
 
 ### Infrastructure
 
