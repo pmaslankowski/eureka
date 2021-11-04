@@ -27,6 +27,7 @@ The repository contains references to interesting articles about computer scienc
 ### Distributed systems
 - [The impossibility of exactly-once delivery](https://blog.bulloak.io/post/20200917-the-impossibility-of-exactly-once/) ✅
 - [M. Kleppmann, Turning the database inside out with Apache Samza](https://www.youtube.com/watch?v=fU9hR3kiOK0&t=2145s&ab_channel=StrangeLoopConference) ✅
+- [M. Whittaker, Consistency in distributed systems](https://mwhittaker.github.io/consistency_in_distributed_systems/index.html)
 
 ### Event Sourcing
 - [The dark side of event sourcing: Managing data conversion](https://www.researchgate.net/publication/315637858_The_dark_side_of_event_sourcing_Managing_data_conversion) ✅
@@ -55,6 +56,8 @@ The repository contains references to interesting articles about computer scienc
 - [R. Elizarov, Deep Dive into Kotlin Coroutines](https://www.youtube.com/watch?v=YrrUCSi72E8) ✅
 - [Kotlin Coroutines Proposal](https://github.com/Kotlin/KEEP/blob/master/proposals/coroutines.md#coroutine-context) ✅
 - [M. Moskała, Coroutines under the Hood](https://kt.academy/article/cc-under-the-hood) ✅
+- [R. Elizarov, Asynchronous Data Streams with Kotlin Flow](https://www.youtube.com/watch?v=tYcqn48SMT8&t=455s&ab_channel=JetBrainsTV) ✅
+- [R. Elizarov, Server-side Kotlin with Coroutines](https://www.youtube.com/watch?v=hQrFfwT1IMo&ab_channel=GOTOConferences) ✅
 
 ### Java
 - [Java Concurrency Interview](https://www.youtube.com/playlist?list=PLhfHPmPYPPRmHL24Ry8rzni2XgwFeooVE) ✅
