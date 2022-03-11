@@ -13,6 +13,7 @@ The repository contains references to interesting articles about computer scienc
 - [Micro Frontends: from Fragments to Renderers](https://engineering.zalando.com/posts/2021/03/micro-frontends-part1.html) ✅
 - [Designing Events-First Microservices](https://www.youtube.com/watch?v=1hwuWmMNT4c) ✅
 - [Design Microservice Architectures the Right Way](https://www.youtube.com/watch?v=j6ow-UemzBc) ✅
+- [ViewModel Composition, Mauro Servienti](https://milestone.topics.it/categories/view-model-composition)
 
 
 ### Software architecture
