@@ -34,7 +34,6 @@ The repository contains references to interesting articles about computer scienc
 - [Distributed locks with Redis](https://redis.io/topics/distlock) ✅
 - [M. Kleppmann, How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html) ✅
 
-
 ### Event Sourcing
 - [The dark side of event sourcing: Managing data conversion](https://www.researchgate.net/publication/315637858_The_dark_side_of_event_sourcing_Managing_data_conversion) ✅
 - [Domain Events vs Event Sourcing - Why domain events and event sourcing should not be mixed up](https://www.innoq.com/en/blog/domain-events-versus-event-sourcing/) ✅
@@ -47,7 +46,10 @@ The repository contains references to interesting articles about computer scienc
 ### FP
 
 ### Reactive Programming
-- 🇵🇱 [Co ssie w programowaniu reaktywnym - Tomek Nurkiewicz](https://www.youtube.com/watch?v=WxCb6TMkNd8&ab_channel=Segfault)  ✅
+- 🇵🇱 [Co ssie w programowaniu reaktywnym - Tomek Nurkiewicz](https://www.youtube.com/watch?v=WxCb6TMkNd8&ab_channel=Segfault) ✅
+- [Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka 1/3](Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka)
+- [Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka 2/3](https://www.youtube.com/watch?v=noeWdjO4fyU&t=16s&ab_channel=Devoxx)
+- [Reactive Hardcore. How to build a Publisher and implement own Project Reactor - Oleh Dokuka 3/3](https://www.youtube.com/watch?v=cVKhFPiebSs&ab_channel=Devoxx)
 
 ### JVM
 - [G1 Garbage Collector Details and Tuning by Simone Bordet](https://www.youtube.com/watch?v=Gee7QfoY8ys&t=2596s&ab_channel=VoxxedDays) ✅
@@ -81,6 +83,9 @@ The repository contains references to interesting articles about computer scienc
 
 ### NoSQL Databases
 - [M. Fowler, Introduction to NoSql](https://www.youtube.com/watch?v=qI_g07C_Q5I&ab_channel=GOTOConferences)
+
+### Security
+- [Stop using JWT for sessions](http://cryto.net/~joepie91/blog/2016/06/13/stop-using-jwt-for-sessions/) ✅
 
 ### Soft skills
 - [Charles Leon, Divergent, Emergent, And Convergent Thinking - 3 Thinking Modes](https://www.charlesleon.uk/blog/3-thinking-modes-of-creative-thinking-divergent-emergent-and-convergent-thinking24112019) ✅
